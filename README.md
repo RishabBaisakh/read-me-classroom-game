@@ -1,12 +1,11 @@
 # read-me-classroom-game
 --> Rishab
--->Haard
+--> Haard
 --> Mukesh
 --> Yashwanth
 --> Megha
 --> Yashwanth
 --> Joseph
-<<<<<<< HEAD
 --> Sarabjot
 --> Aditya
 --> Amandeep
@@ -15,5 +14,6 @@
 --> Naman
 --> Sarabjot
 --> Rohit
+--> Charan
 
 
