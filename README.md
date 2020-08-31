@@ -1,5 +1,8 @@
 # read-me-classroom-game
 --> Rishab
 --> Mukesh
---> Aditya
 --> Yashwanth
+--> Megha
+--> Yashwanth
+--> Joseph
+--> Aditya
