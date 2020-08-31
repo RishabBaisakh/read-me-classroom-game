@@ -6,7 +6,7 @@
 --> Megha
 --> Yashwanth
 --> Joseph
-<<<<<<< HEAD
 --> Sarabjot
 --> Aditya
 --> Amandeep
+--> Aditya
